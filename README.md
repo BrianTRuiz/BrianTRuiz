@@ -1,6 +1,6 @@
-# Welcome, my name is Brian Ruiz!
+# **Welcome, my name is Brian Ruiz!**
 
-#### Introduction
+### **Introduction**
 My journey into cyber security is only beginning and I find myself loving the process of pursuing this career. Though challenging, I tackle every problem one action at a time and improve every single day. Follow me, as I embark on this journey in becoming a SOC Analyst.
   
 
